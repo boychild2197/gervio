@@ -1,7 +1,12 @@
+import gervio from "gervio";
 
 
-function helloGervio() {
-    return "Hello Gervio!";
+const {
+    objectDeleteNullValue
+} = gervio;
+
+
+export {
+    gervio as default,
+    objectDeleteNullValue
 }
-
-export default helloGervio;
