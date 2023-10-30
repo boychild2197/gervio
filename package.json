@@ -1,0 +1,23 @@
+{
+  "name": "gervio",
+  "version": "1.0.0",
+  "description": "The powerful tool for javascript developers, which offers alot of utilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boychild2197/gervio.git"
+  },
+  "keywords": [
+    "gervio"
+  ],
+  "author": "boychild2197",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boychild2197/gervio/issues"
+  },
+  "homepage": "https://github.com/boychild2197/gervio#readme"
+}
