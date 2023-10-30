@@ -1,2 +1,2 @@
 # gervio
-Unlock the limitless power with gervio
+Unlock the limitless power of javascript with gervio.
