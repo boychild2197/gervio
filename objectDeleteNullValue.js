@@ -5,7 +5,7 @@
 * 
 */
 
-const objectDeleteNullValue = (arrayOfObj) => {
+export const objectDeleteNullValue = (arrayOfObj) => {
   if (typeof arrayOfObj === 'object' && arrayOfObj !== null) {
     for (const key in arrayOfObj) {
       if (arrayOfObj.hasOwnProperty(key)) {
@@ -20,5 +20,3 @@ const objectDeleteNullValue = (arrayOfObj) => {
     arrayOfObj;
   }
 }
-
-export default objectDeleteNullValue;
