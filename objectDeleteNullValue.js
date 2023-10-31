@@ -5,7 +5,7 @@
 * 
 */
 
-const objectDeleteNullValue = (arrayOfObj: Array<any> | object) => {
+const objectDeleteNullValue = (arrayOfObj) => {
   if (typeof arrayOfObj === 'object' && arrayOfObj !== null) {
     for (const key in arrayOfObj) {
       if (arrayOfObj.hasOwnProperty(key)) {
