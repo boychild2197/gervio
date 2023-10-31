@@ -1,6 +1,6 @@
 {
   "name": "gervio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The powerful tool for javascript developers, which offers alot of utilities",
   "main": "index.js",
   "type": "module",
