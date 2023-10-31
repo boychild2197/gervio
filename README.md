@@ -6,6 +6,7 @@ $ npm install --save gervio.
 
  
 ## Usage
+// In your js file 
 import { helloGervio } from 'gervio';
 
 console.log(helloGervio());
