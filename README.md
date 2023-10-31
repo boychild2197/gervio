@@ -1,12 +1,19 @@
 # gervio
+```
 Unlock the limitless power of javascript with gervio.
+```
 
 ## Installation
-$ npm install --save gervio.
+
+```
+$ npm install gervio
+```
 
  
 ## Usage
-// In your js file 
+```
+/* In your javascript file */
 import { helloGervio } from 'gervio';
 
 console.log(helloGervio());
+```
