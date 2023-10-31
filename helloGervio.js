@@ -1,5 +1,5 @@
 
 
-export function helloGervio() {
+export default function helloGervio() {
     return "Hello, Gervio!";
 }

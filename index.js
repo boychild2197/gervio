@@ -1,7 +1,7 @@
-import  helloGervio from './helloGervio';
-import objectDeleteNullValue from './objectDeleteNullValue';
+import  helloGervio from './helloGervio.js';
+import removeNullValueFromObject from './removeNullValueFromObject.js';
 
 export {
     helloGervio,
-    objectDeleteNullValue
+    removeNullValueFromObject
 }
