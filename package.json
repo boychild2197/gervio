@@ -1,6 +1,6 @@
 {
   "name": "gervio",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The powerful tool for javascript developers, which offers alot of utilities",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/boychild2197/gervio.git"
   },
   "keywords": [
-    "gervio", "gerviojs"
+    "gervio",
+    "gerviojs"
   ],
   "author": "boychild2197",
   "license": "MIT",
