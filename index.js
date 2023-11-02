@@ -5,6 +5,7 @@ import enumToArray from './enumToArray.js';
 import enumToObjectArray from './enumToObjectArray.js';
 import compareObjects from './compareObjects.js';
 import regex from './regex.js';
+import formatNumberWithCommas from './formatNumberWithCommas.js';
 
 
 export {
@@ -14,5 +15,6 @@ export {
     enumToArray,
     enumToObjectArray,
     compareObjects,
-    regex
+    regex,
+    formatNumberWithCommas
 }

@@ -12,7 +12,7 @@
     "url": "git+https://github.com/boychild2197/gervio.git"
   },
   "keywords": [
-    "gervio"
+    "gervio", "gerviojs"
   ],
   "author": "boychild2197",
   "license": "MIT",
